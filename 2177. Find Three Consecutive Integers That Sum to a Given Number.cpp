@@ -1,30 +1,17 @@
-class Solution
-{
+class Solution {
 public:
-    vector<long long> sumOfThree(long long num)
+    string addSpaces(string s, vector<int>& spaces) 
     {
-        if (not(num % 3))
+        string ans;
+        int i = 0, j = 0;
+        int n = s.size(), m = spaces.size();
+        while(j < m)
         {
-            long long mod = num / 3;
-            return {mod - 1, mod, mod + 1};
+            if(i == spaces[j])
+                ans += ' ', j++;
+            ans += s[i++];
         }
-        return {};
-    }
-};
-
-class Solution
-{
-public:
-    vector<long long> sumOfThree(long long num)
-    {
-        vector<long long> ans;
-        if (not(num % 3))
-        {
-            long long mod = num / 3;
-            ans.push_back(mod - 1);
-            ans.push_back(mod);
-            ans.push_back(mod + 1);
-        }
+        while(i < n) ans += s[i++];
         return ans;
     }
 };
