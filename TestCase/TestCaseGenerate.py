@@ -4,7 +4,7 @@ import random
 # Generate 5 datasets with lengths divisible by 1000 and values between 1 and 1000
 dataset_lengths = [1000, 2000, 3000, 4000, 5000]
 datasets = {
-    f"dataset_{length}.txt": [random.randint(1, 1000) for _ in range(length)]
+    f"TestCase_{length}.txt": [random.randint(1, 1000) for _ in range(length)]
     for length in dataset_lengths
 }
 
