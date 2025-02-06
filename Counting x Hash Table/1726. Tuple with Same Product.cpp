@@ -11,7 +11,6 @@ public:
         for(int i = 0; i < n; i++)
             for(int j = i + 1; j < n; j++)
                 ans += (store[long(nums[i]) * nums[j]] - 1) * 4;
-
         return ans; 
     }
 };
