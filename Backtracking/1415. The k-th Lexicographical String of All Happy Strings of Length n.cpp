@@ -11,19 +11,14 @@ class Solution {
             }
             for(auto ch : s)
             {
-                if(ch == cur.back()) continue;
+                if(cur.size() and ch == cur.back()) continue;
                 backtrack(cur + ch, n, k, count);
             }
         }
         string getHappyString(int n, int k) 
         {
             int count = 0;
-            for(auto ch : s)
-            {
-                string cur;
-                cur += ch;
-                backtrack(cur, n, k, count);
-            }
+            backtrack("", n, k, count);
             return count == k ? ans : "";
         }
     };
