@@ -1,0 +1,2 @@
+18-03-2025 11:30:41  336  ssh -i "C:\Users\SISHI\Downloads\Django Start.pem" ubuntu@51.20.127.171
+18-03-2025 11:31:26  337  git add .
