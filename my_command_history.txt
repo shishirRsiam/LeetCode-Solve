@@ -1,2 +1,6 @@
 18-03-2025 11:30:41  336  ssh -i "C:\Users\SISHI\Downloads\Django Start.pem" ubuntu@51.20.127.171
 18-03-2025 11:31:26  337  git add .
+18-03-2025 11:31:35  338  git commit -am"2401. Longest Nice Subarray"
+18-03-2025 11:31:46  339  git push
+19-03-2025 09:23:44  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+19-03-2025 09:25:02  338  git add .
