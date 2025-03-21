@@ -16,3 +16,8 @@
 20-03-2025 15:55:54  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 20-03-2025 15:55:54  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 20-03-2025 15:56:53  338  git add .
+20-03-2025 15:56:58  339  git commit -am"3108. Minimum Cost Walk in Weighted Graph"
+20-03-2025 15:57:07  340  git push
+20-03-2025 20:05:42  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+21-03-2025 18:56:52  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+21-03-2025 18:57:58  338  git add .
