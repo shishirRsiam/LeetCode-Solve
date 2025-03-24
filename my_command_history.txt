@@ -34,3 +34,8 @@
 22-03-2025 18:09:48  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 23-03-2025 20:02:02  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 23-03-2025 20:03:11  338  git add .
+23-03-2025 20:03:17  339  git commit -am"1976. Number of Ways to Arrive at Destination"
+23-03-2025 20:03:26  340  git push
+24-03-2025 11:57:30  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+24-03-2025 11:58:25  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+24-03-2025 11:59:09  338  git add .
