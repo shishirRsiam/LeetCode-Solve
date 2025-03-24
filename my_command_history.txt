@@ -43,3 +43,6 @@
 24-03-2025 11:59:23  340  git push
 24-03-2025 18:41:23  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 24-03-2025 18:42:25  338  git add .
+24-03-2025 18:42:30  339  git commit -am"1984. Minimum Difference Between Highest and Lowest of K Scores"
+24-03-2025 18:42:38  340  git push
+24-03-2025 18:50:32  341  git add .
