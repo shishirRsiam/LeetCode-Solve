@@ -68,3 +68,8 @@
 27-03-2025 12:10:40  340  git push
 27-03-2025 12:32:39  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 27-03-2025 12:33:33  338  git add .
+27-03-2025 12:33:39  339  git commit -am"915. Partition Array into Disjoint Intervals"
+27-03-2025 12:33:48  340  git push
+28-03-2025 21:21:42  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+28-03-2025 21:22:21  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+28-03-2025 21:22:22  338  git add .
