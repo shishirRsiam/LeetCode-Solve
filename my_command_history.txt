@@ -76,3 +76,8 @@
 28-03-2025 21:22:34  339  git commit -am"2503. Maximum Number of Points From Grid Queries"
 28-03-2025 21:22:42  340  git push
 28-03-2025 22:47:56  341  git add .
+28-03-2025 22:48:00  342  git commit -am"1091. Shortest Path in Binary Matrix"
+28-03-2025 22:48:07  343  git push
+28-03-2025 22:51:44  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+29-03-2025 19:45:27  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+29-03-2025 19:46:55  338  git add .
