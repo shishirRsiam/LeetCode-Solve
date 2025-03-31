@@ -92,3 +92,7 @@
 31-03-2025 11:18:49  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 31-03-2025 11:18:50  338  it add .
 31-03-2025 11:19:01  339  git add .
+31-03-2025 11:19:06  340  git commit -am"3503. Longest Palindrome After Substring Concatenation I"
+31-03-2025 11:19:12  341  git push
+31-03-2025 23:41:18  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+31-03-2025 23:42:32  338  git add .
