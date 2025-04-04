@@ -117,3 +117,8 @@
 03-04-2025 13:16:57  339  git commit -am"2909. Minimum Sum of Mountain Triplets II"
 03-04-2025 13:17:14  340  git push
 03-04-2025 13:18:15  341  git add .
+03-04-2025 13:18:24  342  git commit -am"2874. Maximum Value of an Ordered Triplet II"
+03-04-2025 13:18:31  343  git push
+04-04-2025 11:09:32  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+05-04-2025 02:11:35  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+05-04-2025 02:12:16  338  git add .
