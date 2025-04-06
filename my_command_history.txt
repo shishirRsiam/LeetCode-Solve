@@ -140,3 +140,6 @@
 06-04-2025 19:26:03  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 06-04-2025 19:26:08  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 06-04-2025 19:26:11  338  git add .
+06-04-2025 19:26:18  339  git commit -am"368. Largest Divisible Subset"
+06-04-2025 19:26:26  340  git push
+06-04-2025 20:12:59  341  git add .
