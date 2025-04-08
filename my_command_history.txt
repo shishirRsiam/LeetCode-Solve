@@ -160,3 +160,13 @@
 08-04-2025 20:40:50  340  git push
 09-04-2025 01:48:27  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 09-04-2025 01:52:08  338  git add .
+09-04-2025 01:52:13  339  git commit -am"class Solution {"
+09-04-2025 01:52:14  340  public:
+09-04-2025 01:52:17  340  public:
+09-04-2025 01:52:18  341      int maxDistinctElements(vector<int>& nums, int k) 
+09-04-2025 01:52:19  342      {         int ans = 0, n = nums.size();
+09-04-2025 01:52:19  343          sort(begin(nums), end(nums));
+09-04-2025 01:52:20  343          sort(begin(nums), end(nums));
+09-04-2025 01:52:21  344          int prevNumber = nums[0] - k;
+09-04-2025 01:52:25  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+09-04-2025 01:52:29  338  git add .
