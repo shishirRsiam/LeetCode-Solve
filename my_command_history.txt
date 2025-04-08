@@ -148,3 +148,11 @@
 07-04-2025 12:21:58  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 07-04-2025 12:22:50  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 07-04-2025 12:25:20  338  git add .
+07-04-2025 12:25:28  339  git commit -am"416. Partition Equal Subset Sum"
+07-04-2025 12:25:37  340  git push
+08-04-2025 09:28:59  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+08-04-2025 09:29:48  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+08-04-2025 20:36:03  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+08-04-2025 20:40:06  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+08-04-2025 20:40:29  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+08-04-2025 20:40:37  338  git add .
