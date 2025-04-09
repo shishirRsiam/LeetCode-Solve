@@ -170,3 +170,7 @@
 09-04-2025 01:52:21  344          int prevNumber = nums[0] - k;
 09-04-2025 01:52:25  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 09-04-2025 01:52:29  338  git add .
+09-04-2025 01:52:34  339  git commit -am"3397. Maximum Number of Distinct Elements After Operations"
+09-04-2025 01:52:45  340  git push
+09-04-2025 15:30:18  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+09-04-2025 15:30:55  338  git add .
