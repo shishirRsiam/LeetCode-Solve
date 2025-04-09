@@ -174,3 +174,8 @@
 09-04-2025 01:52:45  340  git push
 09-04-2025 15:30:18  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 09-04-2025 15:30:55  338  git add .
+09-04-2025 15:31:04  339  git commit -am"3375. Minimum Operations to Make Array Values Equal to K"
+09-04-2025 15:31:26  340  git push
+09-04-2025 20:59:58  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+09-04-2025 21:00:40  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+09-04-2025 21:00:42  338  git add .
