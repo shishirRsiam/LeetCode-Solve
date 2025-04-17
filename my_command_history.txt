@@ -262,3 +262,8 @@
 16-04-2025 22:50:35  369  git commit -am "1759. Count Number of Homogenous Substrings"
 16-04-2025 22:50:42  370  git push
 16-04-2025 23:05:52  371  git add .
+16-04-2025 23:05:53  372  git commit -am "1513. Number of Substrings With Only 1s"
+16-04-2025 23:05:57  373  git push
+17-04-2025 12:47:01  364  -----END RSA PRIVATE KEY-----
+17-04-2025 12:47:26  364  -----END RSA PRIVATE KEY-----
+17-04-2025 12:51:06  365  git add .
