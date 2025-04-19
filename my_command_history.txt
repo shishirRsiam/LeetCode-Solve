@@ -282,3 +282,6 @@
 19-04-2025 12:07:48  366  git commit -am "2563. Count the Number of Fair Pairs"
 19-04-2025 12:07:53  367  git push
 19-04-2025 12:40:56  368  git add .
+19-04-2025 12:41:01  369  git commit -am "1865. Finding Pairs With a Certain Sum"
+19-04-2025 12:41:12  370  git push
+19-04-2025 12:54:17  371  git add .
