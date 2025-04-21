@@ -306,3 +306,6 @@
 21-04-2025 14:27:24  367  git push
 21-04-2025 18:56:54  364  -----END RSA PRIVATE KEY-----
 21-04-2025 18:57:23  365  git add .
+21-04-2025 18:57:29  366  git commit -am "2091. Removing Minimum and Maximum From Array"
+21-04-2025 18:57:34  367  git push
+21-04-2025 19:22:33  368  git add .
