@@ -635,3 +635,8 @@
 21-06-2025 10:22:40  392  "New Terminal"
 21-06-2025 10:25:13  392  "New Terminal"
 21-06-2025 10:25:58  393  git add .
+21-06-2025 10:26:03  394  git commit -am "3085. Minimum Deletions to Make String K-Special"
+21-06-2025 10:26:12  395  git push
+22-06-2025 08:50:51  392  "New Terminal"
+22-06-2025 08:52:04  392  "New Terminal"
+22-06-2025 08:53:34  393  git add .
