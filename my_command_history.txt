@@ -674,3 +674,8 @@
 30-06-2025 13:01:44  392  "New Terminal"
 30-06-2025 13:02:16  392  "New Terminal"
 30-06-2025 13:03:12  393  git add .
+30-06-2025 13:03:18  394  git commit -am "594. Longest Harmonious Subsequence"
+30-06-2025 13:03:23  395  git push
+01-07-2025 10:04:16  392  "New Terminal"
+01-07-2025 10:06:39  392  "New Terminal"
+01-07-2025 10:07:56  393  git add .
