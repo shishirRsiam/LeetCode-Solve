@@ -690,3 +690,9 @@
 04-07-2025 12:40:48  392  "New Terminal"
 04-07-2025 12:40:49  392  "New Terminal"
 04-07-2025 12:41:15  393  git add .
+04-07-2025 12:41:27  394  git commit -am "3307. Find the K-th Character in String Game II"
+04-07-2025 12:41:32  395  git push
+04-07-2025 16:29:44  392  "New Terminal"
+05-07-2025 09:53:14  392  "New Terminal"
+05-07-2025 09:53:39  392  "New Terminal"
+05-07-2025 09:55:13  393  git add .
