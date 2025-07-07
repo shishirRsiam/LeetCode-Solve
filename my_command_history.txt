@@ -713,3 +713,10 @@
 07-07-2025 21:30:45  395  git push
 07-07-2025 23:34:13  392  "New Terminal"
 07-07-2025 23:35:47  393  git add .
+07-07-2025 23:35:51  394  git commit -am "875. Koko Eating Bananas"
+07-07-2025 23:35:55  395  git push
+07-07-2025 23:42:27  396  nano ~/.bashrc
+07-07-2025 23:42:40  397  cat ~/.bashrc 
+07-07-2025 23:42:56  398  git_push ""test push
+07-07-2025 23:43:02  399  git_push "test push"
+07-07-2025 23:43:18  400  source ~/.bashrc
