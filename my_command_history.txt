@@ -777,3 +777,6 @@
 30-07-2025 10:48:56   70  push "2419. Longest Subarray With Maximum Bitwise AND"
 31-07-2025 20:20:59   69  code .
 31-07-2025 20:21:28   69  code .
+31-07-2025 20:21:53   70  push "898. Bitwise ORs of Subarrays"
+01-08-2025 14:44:32   74  python manage.py runserver
+01-08-2025 14:44:47   74  python manage.py runserver
