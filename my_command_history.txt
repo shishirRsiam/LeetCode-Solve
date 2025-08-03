@@ -780,3 +780,7 @@
 31-07-2025 20:21:53   70  push "898. Bitwise ORs of Subarrays"
 01-08-2025 14:44:32   74  python manage.py runserver
 01-08-2025 14:44:47   74  python manage.py runserver
+01-08-2025 14:49:35   75  push "118. Pascal's Triangle"
+02-08-2025 07:36:28   74  python manage.py runserver
+03-08-2025 23:06:01   74  python manage.py runserver
+03-08-2025 23:06:31   74  python manage.py runserver
