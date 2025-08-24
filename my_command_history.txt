@@ -22,3 +22,4 @@
 22-08-2025 22:14:14   21  push "3195. Find the Minimum Area to Cover All Ones I"
 24-08-2025 10:40:47   19  psql -U postgres
 24-08-2025 10:47:49   19  psql -U postgres
+24-08-2025 10:50:57   20  push "1493. Longest Subarray of 1's After Deleting One Element"
