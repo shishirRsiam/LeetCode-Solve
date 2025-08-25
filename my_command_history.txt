@@ -23,3 +23,6 @@
 24-08-2025 10:40:47   19  psql -U postgres
 24-08-2025 10:47:49   19  psql -U postgres
 24-08-2025 10:50:57   20  push "1493. Longest Subarray of 1's After Deleting One Element"
+24-08-2025 10:53:33   21  push "3637. Trionic Array I"
+24-08-2025 21:03:00   19  psql -U postgres
+25-08-2025 21:36:22   19  psql -U postgres
