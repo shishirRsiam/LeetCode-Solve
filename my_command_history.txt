@@ -28,3 +28,6 @@
 25-08-2025 21:36:22   19  psql -U postgres
 25-08-2025 21:37:31   20  push "14. Longest Common Prefix"
 25-08-2025 23:47:55   19  psql -U postgres
+25-08-2025 23:49:26   21  push "498. Diagonal Traverse"
+26-08-2025 18:13:43   19  psql -U postgres
+26-08-2025 18:13:59   19  psql -U postgres
