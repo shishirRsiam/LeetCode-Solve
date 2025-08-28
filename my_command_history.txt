@@ -31,3 +31,7 @@
 25-08-2025 23:49:26   21  push "498. Diagonal Traverse"
 26-08-2025 18:13:43   19  psql -U postgres
 26-08-2025 18:13:59   19  psql -U postgres
+26-08-2025 18:14:41   20  push "3000. Maximum Area of Longest Diagonal Rectangle"
+26-08-2025 19:24:08   19  psql -U postgres
+28-08-2025 14:06:52   19  psql -U postgres
+28-08-2025 14:07:11   19  psql -U postgres
