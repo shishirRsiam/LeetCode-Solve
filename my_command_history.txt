@@ -62,3 +62,8 @@
 03-09-2025 20:47:39   25  push "3027. Find the Number of Ways to Place People II"
 04-09-2025 21:17:20   24  grun
 04-09-2025 21:17:52   24  grun
+04-09-2025 21:18:41   25  push "3516. Find Closest Person"
+04-09-2025 21:19:13   26  check_git
+05-09-2025 22:14:14   24  grun
+07-09-2025 16:03:31   24  grun
+07-09-2025 16:14:59   24  grun
