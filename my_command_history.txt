@@ -76,3 +76,7 @@
 08-09-2025 13:36:28   30  push "1317. Convert Integer to the Sum of Two No-Zero Integers"
 08-09-2025 15:17:33   29  python train_model.py 
 11-09-2025 01:13:11   29  python train_model.py 
+11-09-2025 01:15:19   30  push "1733. Minimum Number of People to Teach"
+11-09-2025 02:13:45   29  python train_model.py 
+11-09-2025 20:56:25   29  python train_model.py 
+11-09-2025 20:56:43   29  python train_model.py 
