@@ -83,3 +83,8 @@
 11-09-2025 20:58:05   30  push "2785. Sort Vowels in a String"
 12-09-2025 13:44:37   29  python train_model.py 
 12-09-2025 13:45:38   29  python train_model.py 
+12-09-2025 13:48:30   30  push "3227. Vowels Game in a String"
+13-09-2025 17:17:39   29  python train_model.py 
+13-09-2025 17:18:46   29  python train_model.py 
+13-09-2025 17:18:48   29  python train_model.py 
+13-09-2025 17:19:11   29  python train_model.py 
