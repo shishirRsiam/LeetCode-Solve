@@ -90,3 +90,6 @@
 13-09-2025 17:19:11   29  python train_model.py 
 13-09-2025 17:19:26   30  push "3541. Find Most Frequent Vowel and Consonant"
 14-09-2025 18:24:55   29  python train_model.py 
+14-09-2025 18:30:39   30  push "966. Vowel Spellchecker"
+15-09-2025 18:05:03   29  python train_model.py 
+15-09-2025 18:07:51   29  python train_model.py 
