@@ -126,3 +126,6 @@
 23-09-2025 15:49:42   29  python train_model.py 
 25-09-2025 20:03:20   29  python train_model.py 
 25-09-2025 20:04:09   30  push "120. Triangle"
+25-09-2025 20:12:58   31  push "1887. Reduction Operations to Make the Array Elements Equal"
+27-09-2025 16:18:06   29  python train_model.py 
+27-09-2025 16:18:25   29  python train_model.py 
