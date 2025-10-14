@@ -164,3 +164,6 @@
 08-10-2025 14:55:19   30  push "2300. Successful Pairs of Spells and Potions"
 13-10-2025 23:31:59   29  python train_model.py 
 13-10-2025 23:32:15   29  python train_model.py 
+13-10-2025 23:32:42   30  push "2273. Find Resultant Array After Removing Anagrams"
+14-10-2025 07:17:02   29  python train_model.py 
+14-10-2025 07:17:19   29  python train_model.py 
