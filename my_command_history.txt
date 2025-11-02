@@ -235,3 +235,7 @@
 31-10-2025 23:19:32   31  push "3701. Compute Alternating Sum"
 01-11-2025 13:51:52   29  python train_model.py 
 01-11-2025 13:52:16   29  python train_model.py 
+01-11-2025 13:57:13   30  push "3217. Delete Nodes From Linked List Present in Array"
+01-11-2025 15:19:46   29  python train_model.py 
+02-11-2025 16:55:17   29  python train_model.py 
+02-11-2025 16:55:27   29  python train_model.py 
