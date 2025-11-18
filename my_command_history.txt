@@ -270,3 +270,7 @@
 16-11-2025 14:24:47   30  push "1513. Number of Substrings With Only 1s"
 17-11-2025 11:30:38   29  python train_model.py 
 17-11-2025 11:31:37   29  python train_model.py 
+17-11-2025 11:32:00   30  push "1437. Check If All 1's Are at Least Length K Places Away"
+17-11-2025 12:53:23   29  python train_model.py 
+18-11-2025 12:04:16   29  python train_model.py 
+18-11-2025 12:04:38   29  python train_model.py 
