@@ -298,3 +298,5 @@
 28-11-2025 19:46:38   30  push "2872. Maximum Number of K-Divisible Components"
 29-11-2025 10:17:35   29  python train_model.py 
 29-11-2025 11:22:35   29  python train_model.py 
+29-11-2025 11:22:48   30  push "3512. Minimum Operations to Make Array Sum Divisible by K"
+30-11-2025 12:43:48   29  python train_model.py 
