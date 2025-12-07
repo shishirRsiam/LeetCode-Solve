@@ -309,3 +309,17 @@
 "
 05-12-2025 14:38:19   29  python train_model.py 
 05-12-2025 14:39:00   29  python train_model.py 
+05-12-2025 14:39:42   30  push "3432. Count Partitions with Even Sum Difference"
+07-12-2025 13:07:36   29  python train_model.py 
+07-12-2025 13:07:48   29  python train_model.py 
+07-12-2025 13:07:57   29  python train_model.py 
+07-12-2025 13:08:04   30  C:/Python310/python.exe
+07-12-2025 13:08:04   31  class Solution:
+07-12-2025 13:08:05   32      def countOdds(self, low: int, high: int) -> int:
+07-12-2025 13:08:05   33          return ((high % 2) or (low % 2)) + ((high - low) // 2)
+07-12-2025 13:08:05   33          return ((high % 2) or (low % 2)) + ((high - low) // 2)
+07-12-2025 13:08:06   34  class Solution:
+07-12-2025 13:08:06   35      def countOdds(self, low: int, high: int) -> int:
+07-12-2025 13:08:07   36          return ((high % 2) or (low % 2)) + ((high - low) // 2)
+07-12-2025 13:08:07   36          return ((high % 2) or (low % 2)) + ((high - low) // 2)
+07-12-2025 13:08:07   36          return ((high % 2) or (low % 2)) + ((high - low) // 2)
