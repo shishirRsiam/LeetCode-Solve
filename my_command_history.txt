@@ -326,3 +326,6 @@
 07-12-2025 13:09:28   37  push "1523. Count Odd Numbers in an Interval Range"
 08-12-2025 11:33:00   29  python train_model.py 
 08-12-2025 11:33:13   29  python train_model.py 
+08-12-2025 11:33:43   30  push "1925. Count Square Sum Triples"
+09-12-2025 06:38:28   29  python train_model.py 
+09-12-2025 06:38:59   29  python train_model.py 
