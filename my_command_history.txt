@@ -340,3 +340,6 @@
 15-12-2025 13:29:40   30  push "2110. Number of Smooth Descent Periods of a Stock"
 15-12-2025 14:03:20   29  python train_model.py 
 15-12-2025 14:03:54   29  python train_model.py 
+15-12-2025 14:04:36   30  push "3774. Absolute Difference Between Maximum and Minimum K Elements"
+16-12-2025 18:23:32   29  python train_model.py 
+16-12-2025 18:23:37   29  python train_model.py 
