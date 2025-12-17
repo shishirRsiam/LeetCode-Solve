@@ -343,3 +343,6 @@
 15-12-2025 14:04:36   30  push "3774. Absolute Difference Between Maximum and Minimum K Elements"
 16-12-2025 18:23:32   29  python train_model.py 
 16-12-2025 18:23:37   29  python train_model.py 
+16-12-2025 18:24:17   30  push "3769. Sort Integers by Binary Reflection"
+17-12-2025 22:10:04   29  python train_model.py 
+17-12-2025 22:10:18   29  python train_model.py 
