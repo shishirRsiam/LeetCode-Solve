@@ -371,3 +371,6 @@
 28-12-2025 18:57:39   30  push "1351. Count Negative Numbers in a Sorted Matrix"
 31-12-2025 20:24:12   29  python train_model.py 
 31-12-2025 20:24:50   29  python train_model.py 
+31-12-2025 20:25:25   30  push "3783. Mirror Distance of an Integer"
+01-01-2026 11:46:46   29  python train_model.py 
+01-01-2026 11:47:50   29  python train_model.py 
