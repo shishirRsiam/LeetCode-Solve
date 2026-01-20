@@ -413,3 +413,6 @@
 19-01-2026 21:47:06   38  push "1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold"
 19-01-2026 22:49:52   37  ./app.exe 
 19-01-2026 22:50:25   37  ./app.exe 
+19-01-2026 22:50:39   38  push "3813. Vowel-Consonant Score"
+20-01-2026 12:14:08   37  ./app.exe 
+20-01-2026 12:14:24   37  ./app.exe 
