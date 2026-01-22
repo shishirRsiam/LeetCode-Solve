@@ -416,3 +416,6 @@
 19-01-2026 22:50:39   38  push "3813. Vowel-Consonant Score"
 20-01-2026 12:14:08   37  ./app.exe 
 20-01-2026 12:14:24   37  ./app.exe 
+20-01-2026 12:14:47   38  push "3314. Construct the Minimum Bitwise Array I"
+22-01-2026 15:17:02   44  docker compose up -d
+22-01-2026 15:17:20   44  docker compose up -d
