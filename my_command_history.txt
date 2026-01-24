@@ -419,3 +419,6 @@
 20-01-2026 12:14:47   38  push "3314. Construct the Minimum Bitwise Array I"
 22-01-2026 15:17:02   44  docker compose up -d
 22-01-2026 15:17:20   44  docker compose up -d
+22-01-2026 15:17:41   45  push "3507. Minimum Pair Removal to Sort Array I"
+24-01-2026 10:16:48   44  docker compose up -d
+24-01-2026 10:17:03   44  docker compose up -d
