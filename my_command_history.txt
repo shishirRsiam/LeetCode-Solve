@@ -453,3 +453,8 @@
 07-02-2026 16:31:42   69  push "1653. Minimum Deletions to Make String Balanced"
 08-02-2026 20:25:38   68  echo "Hello, World!" >> output.txt
 08-02-2026 20:25:49   68  echo "Hello, World!" >> output.txt
+08-02-2026 20:29:06   69  push "110. Balanced Binary Tree"
+12-02-2026 16:45:49   95  docker compose up --build
+12-02-2026 16:46:08   95  docker compose up --build
+12-02-2026 17:20:54   95  docker compose up --build
+12-02-2026 17:34:55   95  docker compose up --build
