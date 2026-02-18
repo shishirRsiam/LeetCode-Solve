@@ -477,3 +477,6 @@
 18-02-2026 13:05:16  107  push "693. Binary Number with Alternating Bits"
 18-02-2026 13:06:55  106  clear
 18-02-2026 13:07:35  106  clear
+18-02-2026 13:08:01  107  push "191. Number of 1 Bits"
+18-02-2026 14:26:16  106  clear
+18-02-2026 14:26:26  106  clear
