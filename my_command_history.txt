@@ -491,3 +491,7 @@
 21-02-2026 21:33:25  107  push "762. Prime Number of Set Bits in Binary Representation"
 22-02-2026 10:03:10  106  clear
 22-02-2026 10:03:42  106  clear
+22-02-2026 10:04:36  107  push "868. Binary Gap"
+22-02-2026 23:02:09  106  clear
+23-02-2026 14:27:17  106  clear
+23-02-2026 14:27:27  106  clear
