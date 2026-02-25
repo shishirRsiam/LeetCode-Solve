@@ -498,3 +498,7 @@
 23-02-2026 14:27:56  107  push "1461. Check If a String Contains All Binary Codes of Size K"
 24-02-2026 10:10:51  106  clear
 24-02-2026 10:11:11  106  clear
+24-02-2026 10:11:53  107  push "1022. Sum of Root To Leaf Binary Numbers"
+24-02-2026 17:22:40  106  clear
+25-02-2026 12:34:05  106  clear
+25-02-2026 12:34:21  106  clear
