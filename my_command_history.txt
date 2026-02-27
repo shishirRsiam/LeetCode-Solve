@@ -505,3 +505,6 @@
 25-02-2026 12:35:37  107  push "1356. Sort Integers by The Number of 1 Bits"
 26-02-2026 11:56:54  106  clear
 26-02-2026 11:57:21  106  clear
+26-02-2026 11:57:42  107  push "1404. Number of Steps to Reduce a Number in Binary Representation to One"
+27-02-2026 21:06:15  106  clear
+27-02-2026 21:06:27  106  clear
