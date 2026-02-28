@@ -508,3 +508,6 @@
 26-02-2026 11:57:42  107  push "1404. Number of Steps to Reduce a Number in Binary Representation to One"
 27-02-2026 21:06:15  106  clear
 27-02-2026 21:06:27  106  clear
+27-02-2026 21:06:50  107  push "1720. Decode XORed Array"
+28-02-2026 19:46:25  106  clear
+28-02-2026 19:46:41  106  clear
