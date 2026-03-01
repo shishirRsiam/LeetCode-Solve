@@ -511,3 +511,6 @@
 27-02-2026 21:06:50  107  push "1720. Decode XORed Array"
 28-02-2026 19:46:25  106  clear
 28-02-2026 19:46:41  106  clear
+28-02-2026 19:47:42  107  push "1680. Concatenation of Consecutive Binary Numbers"
+01-03-2026 18:04:36  106  clear
+01-03-2026 18:04:49  106  clear
