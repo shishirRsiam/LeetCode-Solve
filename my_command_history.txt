@@ -521,3 +521,6 @@
 04-03-2026 10:56:43  107  push "1582. Special Positions in a Binary Matrix"
 06-03-2026 19:37:50  106  clear
 06-03-2026 19:38:22  106  clear
+06-03-2026 19:38:53  107  push "1784. Check if Binary String Has at Most One Segment of Ones"
+07-03-2026 21:17:49  106  clear
+07-03-2026 21:18:24  106  clear
