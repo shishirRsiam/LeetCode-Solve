@@ -585,3 +585,6 @@
 17-04-2026 20:23:28  335  push "3761. Minimum Absolute Distance Between Mirror Pairs"
 17-04-2026 20:23:29  336  clear
 18-04-2026 11:12:32  335  clear
+18-04-2026 11:13:26  336  push "3783. Mirror Distance of an Integer"
+20-04-2026 20:18:31  335  clear
+20-04-2026 20:18:54  335  clear
