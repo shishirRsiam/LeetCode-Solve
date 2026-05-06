@@ -1,35 +1,35 @@
 class Solution {
 public:
-
     void swapChar(vector<char> &vec)
     {
         int n = vec.size();
         int Hash = 0;
-        unordered_map<int, int>store;
-        for(int i = 0; i < n; i++)
+        unordered_map<int, int> store;
+        for (int i = 0; i < n; i++)
         {
             Hash += vec[i] == '#';
-            if(vec[i] == '*')
+            if (vec[i] == '*')
             {
                 store[i] = Hash;
                 Hash = 0;
             }
         }
         if(Hash) store[n] = Hash;
-        for(auto [idx_i, count] : store)
+        for (auto [idx_i, count] : store)
         {
             int idx = idx_i;
             // cout<<idx<<" "<<count<<endl;
-            while(count--)
+            while (count--)
             {
                 idx--;
                 vec[idx] = '#';
                 // cout<<idx<<" ";
             }
-            while(idx)
+            while (idx)
             {
                 idx--;
-                if(vec[idx] == '*') break;
+                if (vec[idx] == '*')
+                    break;
                 vec[idx] = '.';
                 // cout<<idx<<" ";
             }
@@ -38,24 +38,21 @@ public:
         // cout<<endl;
     }
 
-    vector<vector<char>> rotateTheBox(vector<vector<char>>& box) 
+    vector<vector<char>> rotateTheBox(vector<vector<char>> &box)
     {
         int n = box.size(), m = box[0].size();
 
-        for(int i = 0; i < n; i++)
+        for (int i = 0; i < n; i++)
         {
             swapChar(box[i]);
-            for(int j = 0; j < m; j++)
-            {
-
-            }
+            for (int j = 0; j < m; j++) {} 
         }
 
-        vector<vector<char>>box90;
-        for(int i = m - 1; i >= 0; i--)
+        vector<vector<char>> box90;
+        for (int i = m - 1; i >= 0; i--)
         {
-            vector<char>temp;
-            for(int j = n - 1; j >= 0; j--)
+            vector<char> temp;
+            for (int j = n - 1; j >= 0; j--)
             {
                 temp.push_back(box[j][i]);
                 // cout<<i<<":"<<j<<" ";
@@ -64,9 +61,9 @@ public:
             box90.push_back(temp);
         }
 
-        for(int i = 0; i < m; i++)
+        for (int i = 0; i < m; i++)
         {
-            for(int j = 0; j < n; j++)
+            for (int j = 0; j < n; j++)
             {
                 // cout<<box90[i][j]<<" ";
             }
