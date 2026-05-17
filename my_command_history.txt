@@ -651,3 +651,6 @@
 12-05-2026 20:26:32    4  push "1665. Minimum Initial Energy to Finish Tasks"
 14-05-2026 19:03:34    3  grun
 14-05-2026 19:03:47    3  grun
+14-05-2026 19:04:35    4  push "2784. Check if Array is Good"
+17-05-2026 19:30:02    3  grun
+17-05-2026 19:30:15    3  grun
