@@ -21,3 +21,26 @@ class Solution(object):
                 if int(cur) in store:
                     ans = max(ans, int(len(cur)))
         return ans
+    
+
+class Solution:
+    def longestCommonPrefix(self, arr1: List[int], arr2: List[int]) -> int:
+        count = {}
+        for val in arr1:
+            s = str(val)
+            n = len(s)
+            for i in range(n):
+                cur = s[:i+1]
+                if cur not in count:
+                    count[cur] = 0
+                count[cur] =+ 1
+
+        ans = 0
+        for val in arr2:
+            s = str(val)
+            n = len(s)
+            for i in range(n):
+                cur = s[:i+1]
+                if cur in count:
+                    ans = max(ans, len(cur))
+        return ans
