@@ -8,3 +8,14 @@ class Solution:
             else: greater_val.append(val)
 
         return less_val + equal_val + greater_val
+    
+class Solution:
+    def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
+        left, mid, right = [], [], []
+
+        for val in nums:
+            if val < pivot: left.append(val)
+            elif val == pivot: mid.append(val)
+            else: right.append(val)
+
+        return left + mid + right
